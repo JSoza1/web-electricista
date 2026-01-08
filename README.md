@@ -5,7 +5,7 @@
 ---
 
 ## 📖 Descripción
-Este proyecto es una **Single Page Application (SPA)** diseñada para un profesional electricista independiente.
+Este proyecto es una **Landing Page** diseñada para un profesional electricista independiente.
 El objetivo es ofrecer una presencia online elegante, rápida y efectiva donde los clientes puedan consultar servicios, ver testimonios y contactar fácilmente.
 
 ### Características Principales y Técnicas:

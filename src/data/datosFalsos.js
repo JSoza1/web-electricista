@@ -23,7 +23,7 @@ export const serviciosData = [
         id: 4,
         titulo: 'Automatización',
         descripcion: 'Automatización de tanques de agua.',
-        icono: '🛡️'
+        icono: '💧'
     },
 ];
 

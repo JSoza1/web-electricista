@@ -34,18 +34,24 @@ El objetivo es ofrecer una presencia online elegante, rápida y efectiva donde l
 
 ```bash
 src/
-├── 📂 components/      # Componentes modulares (Header, Hero, etc.)
-│   └── 📂 Header/      # Cada carpeta contiene su .jsx y .css
+├── 📂 components/      # Componentes modulares
+│   ├── 📂 Clientes/    # Sección de Testimonios
+│   ├── 📂 Contacto/    # Formas de contacto
+│   ├── 📂 Footer/      # Pie de página
+│   ├── 📂 Header/      # Barra de navegación
+│   ├── 📂 Hero/        # Sección principal
+│   ├── 📂 Servicios/   # Tarjetas de servicios
+│   └── 📂 SobreMi/     # Información del profesional
 ├── 📂 data/            # Archivos de datos (textos, precios, info)
 ├── 📂 hooks/           # Custom Hooks (Lógica reutilizable)
-└── 📄 App.jsx          # Componente principal y estructura semántica
+└── 📄 App.jsx          # Componente principal
 ```
 
 ---
 
 ## 🔗 Sitio
 Puedes ver el proyecto en funcionamiento aquí:
-👉 **[Enlace al sitio web próximamente...]**
+👉 **[https://electricistadaniel.vercel.app/](https://electricistadaniel.vercel.app/)**
 
 ---
 

@@ -13,7 +13,6 @@ const Hero = () => {
 
                 <p className="hero__subtitle">
                     Instalaciones, reparaciones y mantenimiento para su hogar o negocio.
-                    Servicio confiable las 24 horas en su zona.
                 </p>
 
                 <div className="hero__actions">
